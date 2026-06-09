@@ -1,8 +1,7 @@
 # gushici-pwa
 高中时的黑历史，一个手机端的古诗词阅读 PWA。
 
-## 预览图
-![prev](./doc/preview.jpg)
+<img src="./doc/preview.jpg" alt="prev" width="300" />
 
 ## 技术栈
 
