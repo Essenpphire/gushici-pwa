@@ -1,0 +1,55 @@
+node:internal/modules/cjs/loader:998
+  throw err;
+  ^
+
+Error: Cannot find module '/home/chino/桌面/mui_demo/src/components/src/axios/test_json_server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:82:12)
+    at node:internal/main/run_main_module:23:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v19.0.1
+yarn run v1.22.19
+$ start http://localhost:3000 & serve -s ./build
+/bin/sh: 1: start: not found
+ WARN  Checking for updates failed (use `--debug` to see full error)
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  2023/3/11 12:46:41 ::1 GET /
+ HTTP  2023/3/11 12:46:41 ::1 Returned 304 in 74 ms
+ HTTP  2023/3/11 12:46:41 ::1 GET /js/app.js
+ HTTP  2023/3/11 12:46:41 ::1 GET /js/app.css
+ HTTP  2023/3/11 12:46:41 ::1 Returned 304 in 14 ms
+ HTTP  2023/3/11 12:46:41 ::1 Returned 200 in 47 ms
+ HTTP  2023/3/11 12:46:41 ::1 GET /static/images/avatar/1.png
+ HTTP  2023/3/11 12:46:41 ::1 Returned 200 in 28 ms
+ HTTP  2023/3/11 12:46:42 ::1 GET /favicon.ico
+ HTTP  2023/3/11 12:46:42 ::1 Returned 304 in 6 ms
+ HTTP  2023/3/11 12:46:52 ::1 GET /
+ HTTP  2023/3/11 12:46:52 ::1 Returned 304 in 5 ms
+ HTTP  2023/3/11 12:46:52 ::1 GET /js/app.js
+ HTTP  2023/3/11 12:46:52 ::1 Returned 304 in 8 ms
+ HTTP  2023/3/11 12:46:52 ::1 GET /js/app.css
+ HTTP  2023/3/11 12:46:52 ::1 Returned 304 in 7 ms
+ HTTP  2023/3/11 12:46:52 ::1 GET /static/images/avatar/1.png
+ HTTP  2023/3/11 12:46:52 ::1 Returned 304 in 6 ms
+ HTTP  2023/3/11 12:46:53 ::1 GET /favicon.ico
+ HTTP  2023/3/11 12:46:53 ::1 Returned 304 in 2 ms
+node:internal/modules/cjs/loader:998
+  throw err;
+  ^
+
+Error: Cannot find module '/home/chino/桌面/mui_demo/src/components/src/axios/test_json_server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:82:12)
+    at node:internal/main/run_main_module:23:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v19.0.1
+
+ INFO  Gracefully shutting down. Please wait...
