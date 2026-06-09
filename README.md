@@ -1,5 +1,5 @@
 # gushici-pwa
-高中时的黑历史，一个手机端的古诗词阅读 PWA。
+高中时的黑历史，一个手机端的古诗词阅读 PWA。不包含后端代码。
 
 <img src="./doc/preview.jpg" alt="prev" width="300" />
 
